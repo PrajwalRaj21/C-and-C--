@@ -40,7 +40,7 @@ int result;
 
 int main(){
     int num1, num2;
-   char operator;
+    char operator;
 
    printf("Enter the first number: ");
    scanf("%d", &num1);
