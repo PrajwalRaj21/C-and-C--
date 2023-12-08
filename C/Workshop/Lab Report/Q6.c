@@ -14,3 +14,4 @@ int main() {
 
     return 0;
 }
+//wap to print the pattern using nested loop
