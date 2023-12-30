@@ -15,6 +15,7 @@ int power(double baseNum, int powNum){
 int main(){
 
     cout<<power(4,3);
+    cout<<power(1,2);
 
 
     return 0;
